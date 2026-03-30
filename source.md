@@ -558,6 +558,10 @@ Simon Binder](https://github.com/simolus3)
 - [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) <!--stargazers:parse-community/Parse-SDK-Flutter--> Open source backend framework by [ParsePlatform](https://parseplatform.org/).
 
 
+### AI / Agent
+
+- [Dart Agent Core](https://github.com/memex-lab/dart_agent_core) <!--stargazers:memex-lab/dart_agent_core--> - Mobile-first, local-first Dart framework for building stateful AI agents with tool use, streaming, sub-agent delegation, planning, and multi-provider LLM support (OpenAI, Gemini, Bedrock) by [Memex Lab](https://github.com/memex-lab)
+
 ### Animation
 
 - [Heroine](https://pub.dev/packages/heroine) <!--stargazers:packages/heroine--> - The queen of hero transitions by [whynotmake.it]
